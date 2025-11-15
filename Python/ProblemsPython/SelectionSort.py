@@ -10,7 +10,7 @@ def selection_sort(arr):
 
         arr[i], arr[min_index] = arr[min_index], arr[i]
 
-
+ 
 # Example
 arr = [64, 25, 12, 22, 11]
 selection_sort(arr)
